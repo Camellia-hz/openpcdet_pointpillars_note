@@ -1,0 +1,2 @@
+# openpcdet_pointpillars_note
+基于博主和开源框架openpcdet完成的对pointpillars笔记
